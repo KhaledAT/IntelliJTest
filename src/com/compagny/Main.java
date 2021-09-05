@@ -15,5 +15,7 @@ public class Main {
         System.out.println("mazda has " + mazda.getDoors() + " doors");
         System.out.println("moto has " + moto.getDoors() + " doors");
 
+        System.out.println("alo");
+
     }
 }
