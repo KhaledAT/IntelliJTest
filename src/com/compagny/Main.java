@@ -16,6 +16,8 @@ public class Main {
         System.out.println("moto has " + moto.getDoors() + " doors");
 
         System.out.println("alooooo");
+        System.out.println("alooooo");
+        System.out.println("alooooo");
 
     }
 }
